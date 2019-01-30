@@ -1,3 +1,11 @@
+Description
+===========
+
+This theme has been adapted from the Octopress Pelican port found here:
+https://github.com/duilio/pelican-octopress-theme/
+
+The original README file is below:
+
 Octopress Theme for Pelican
 ===========================
 
